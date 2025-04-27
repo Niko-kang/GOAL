@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electronic Information, Peking University, 2026
+* M.S. in Electronic Information, Peking University, Supervised by <a href="https://faculty.pku.edu.cn/yunfeng/zh_CN/index.htm">YunFeng Xiao</a>, 2026
 * B.S. in CS, Beijing Jiaoton University, 2021
 
-Experience
+Work Experience
 ======
 * Spring 2025-now: Internship
-  * Peking University
+  * Center on Frontiers of Computing Studies (CFCS)，Peking University
   * Large Models & Embodied AI
-  * Supervisor: Hao Dong
+  * Supervisor: <a href="zdonghao.github.io">Hao Dong</a>
 
 * Fall 2021-Spring 2023: Internship
   * Manzhouli Customs, China
