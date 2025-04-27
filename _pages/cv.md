@@ -19,7 +19,7 @@ Work Experience
 * Spring 2025-now: Internship
   * Center on Frontiers of Computing Studies (CFCS)，Peking University
   * Large Models & Embodied AI
-  * Supervisor: <a href="zdonghao.github.io">Hao Dong</a>
+  * Supervisor: <a href="https://zsdonghao.github.io/">Hao Dong</a>
 
 * Fall 2021-Spring 2023: Internship
   * Manzhouli Customs, China
@@ -42,9 +42,6 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
   
 Project Experience
