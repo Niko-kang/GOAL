@@ -6,5 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a second-year master's student at the School of Physics. I'm currently focusing on quantum information subject，especially in quantum precesion measurement and I'm now interning at School of Computer Science, focusing on LLM&Embodied AI. I have interdisciplinary background in computer science and physics. I'm interested in Robotics,Embodied AI，Multimodal model and Generative Model
+I am a second-year master’s student in Physics with a focus on quantum information science, specializing in quantum precision measurement techniques . Concurrently, I am pursuing a research internship at the School of Computer Science, working on Embodied AI and Large Language Models (LLMs). My interdisciplinary training in CS abd Physics drives me to exploy the world with a strong interest in integrating physics principles into robotics, generative AI, and multimodal systems.
