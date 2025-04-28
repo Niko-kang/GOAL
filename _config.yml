@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lei Kang / Site Title"
+title                    : "Lei Kang's Web"
 title_separator          : "-"
 name                     : &name "Lei Kang"
 description              : &description "GOAL"
