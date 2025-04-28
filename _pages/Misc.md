@@ -4,7 +4,7 @@ title: "Misc"
 permalink: /Misc/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Misc
 ---
 
 {% include base_path %}
