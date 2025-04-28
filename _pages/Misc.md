@@ -15,8 +15,8 @@ I'd love to roam through nature — from soaring peaks to the deepest abysses, f
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img src="https://niko-kang.github.io/GOAL/images/t1.png" alt="Image 1" style="width: 30%; height: auto;">
-  <img src="t2.png" alt="Image 2" style="width: 30%; height: auto;">
-  <img src="t3.png" alt="Image 3" style="width: 30%; height: auto;">
+  <img src="https://niko-kang.github.io/GOAL/images/t2.png" alt="Image 2" style="width: 30%; height: auto;">
+  <img src="https://niko-kang.github.io/GOAL/images/t3.png" alt="Image 3" style="width: 30%; height: auto;">
 
 </div>
 
