@@ -13,7 +13,7 @@ Nature lover
 ======
 I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="/image/t1.png" alt="Image 1" style="width: 30%; height: auto;">
+  <img src="/images/t1.png" alt="Image 1" style="width: 30%; height: auto;">
   <img src="/images/t2.png" alt="Image 2" style="width: 30%; height: auto;">
   <img src="/images/t3.png" alt="Image 3" style="width: 30%; height: auto;">
 
