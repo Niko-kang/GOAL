@@ -15,7 +15,7 @@ name                     : &name "Lei Kang"
 description              : &description "GOAL"
 url                      : https://niko-kang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/GOAL" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Niko-kang/GOAL"
+repository               : "https://github.com/niko-kang/GOAL"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
