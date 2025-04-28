@@ -15,7 +15,7 @@ name                     : &name "Lei Kang"
 description              : &description "GOAL"
 url                      : https://niko-kang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/GOAL" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "niko-kang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "niko.png"
   name             : "Lei Kang（Nikola Kang）"
   pronouns         : # example: "she/her"  
-  bio              : "An interdisciplinary student in computer science and physics.<br>tel:18810763991<br>email:nikola@stu.pku.edu.cn"
+  bio              : "An interdisciplinary student in computer science and physics.<br>18810763991<br>nikola@stu.pku.edu.cn"
   location         : "Beijing China"
   employer         : "Peking University"
   uri              : # URL
