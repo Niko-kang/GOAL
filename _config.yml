@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "niko.png"
   name             : "Lei Kang（Nikola Kang）"
   pronouns         : # example: "she/her"  
   bio              : "An interdisciplinary student in computer science and physics.<br>tel:18810763991<br>email:nikola@stu.pku.edu.cn"
