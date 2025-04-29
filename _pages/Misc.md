@@ -12,7 +12,7 @@ redirect_from:
 Nature lover
 ======
 I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.
-![image](https://niko-kang.github.io/GOAL/images/t1.png)
+![image](https://niko-kang.github.io/GOAL/images/niko.png)
 
 Music
 ======
