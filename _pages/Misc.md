@@ -21,8 +21,6 @@ I'd love to roam through nature — from soaring peaks to the deepest abysses, f
 
 </div>
 
-</div>
-
 Music
 ======
 I find great joy in the world of music, embracing genres such as electronic, jazz, and classical music. I began learning the piano at the age of five and later pursued training in singing, with a focus on national vocal music.
