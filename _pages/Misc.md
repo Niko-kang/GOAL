@@ -11,7 +11,7 @@ redirect_from:
 
 Nature lover
 ======
-I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.image
+I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.
 ![image](../image/t1.png)
 
 Music
