@@ -32,7 +32,7 @@ Skills
   *  Embodied AI
   *  Large Model & Generative Models
   *  RL
-  *  Full-Stack development
+  *  Full-Stack development（Python，C++..）
   *  Automatic Control Algorithm and Deployment
 * Physical
   * Quantum System Designing
