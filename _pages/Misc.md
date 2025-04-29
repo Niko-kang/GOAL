@@ -16,7 +16,7 @@ I'd love to roam through nature — from soaring peaks to the deepest abysses, f
 
   <img src="https://niko-kang.github.io/GOAL/images/t1.jpg" style="width: 30%; margin: 5px;">
   <img src="https://niko-kang.github.io/GOAL/images/t2.jpg" style="width: 30%; margin: 5px;">
-  <img src="https://niko-kang.github.io/GOAL/images/t1.jpg" style="width: 30%; margin: 5px;">
+  <img src="https://niko-kang.github.io/GOAL/images/t3.jpg" style="width: 30%; margin: 5px;">
 
 </div>
 
