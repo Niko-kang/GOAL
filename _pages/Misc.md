@@ -12,98 +12,58 @@ redirect_from:
 Nature lover
 ======
 I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    background: #f0f0f0;
-    display: grid;
-    gap: 10px;
-    padding: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-auto-rows: minmax(150px, auto);
-  }
-
-  .img-wrapper {
-    position: relative;
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-
-  .img-wrapper img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-  }
-
-  .img-wrapper:hover img {
-    transform: scale(1.05);
-  }
-</style>
-</head>
-<body>
-
-<div class="container" id="gallery"></div>
-
-<script>
-const images = [
-  { url: "https://niko-kang.github.io/GOAL/images/t1.jpg" },
-  { url: "https://niko-kang.github.io/GOAL/images/t2.jpg" },
-  { url: "https://niko-kang.github.io/GOAL/images/t3.jpg" }
-];
-
-function createGallery() {
-  const container = document.getElementById('gallery');
+<div class="container">
+  <!-- 左侧竖版 -->
+  <div class="vertical">
+    <img src="/image/t1.jpg" alt="p1">
+  </div>
   
-  images.forEach(img => {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'img-wrapper';
-    
-    const image = new Image();
-    image.src = img.url;
-    
-    image.onload = function() {
-      const aspectRatio = this.naturalWidth / this.naturalHeight;
-      if (aspectRatio > 1) {
-        wrapper.style.gridColumn = 'span 2';
-      } else {
-        wrapper.style.gridRow = 'span 2';
-      }
-    };
-    
-    wrapper.appendChild(image);
-    container.appendChild(wrapper);
-  });
+  <!-- 中间横版容器 -->
+  <div class="horizontal-group">
+    <div class="horizontal">
+      <img src="/image/t2.jpg" alt="p2">
+    </div>
+    <div class="horizontal">
+      <img src="horizontal2.jpg" alt="p3">
+    </div>
+  </div>
+  
+  <!-- 右侧竖版 -->
+  <div class="vertical">
+    <img src="/image/t3.jpg" alt="p4">
+  </div>
+</div>
+
+<style>
+.container {
+  display: flex;
+  gap: 10px; /* 图片间距 */
+  height: 400px; /* 根据实际需要调整 */
 }
 
-window.addEventListener('resize', () => {
-  document.querySelectorAll('.img-wrapper').forEach(wrapper => {
-    const img = wrapper.querySelector('img');
-    const aspectRatio = img.naturalWidth / img.naturalHeight;
-    
-    if (window.innerWidth > 768) {
-      wrapper.style.gridColumn = aspectRatio > 1 ? 'span 2' : '';
-      wrapper.style.gridRow = aspectRatio <= 1 ? 'span 2' : '';
-    } else {
-      wrapper.style.gridColumn = '';
-      wrapper.style.gridRow = '';
-    }
-  });
-});
+.vertical {
+  flex: 1; /* 等分剩余空间 */
+  min-width: 150px; /* 最小宽度 */
+}
 
-createGallery();
-</script>
+.horizontal-group {
+  flex: 2; /* 占据双倍空间 */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 
-</body>
-</html>
-```
+.horizontal {
+  flex: 1;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 保持图片比例 */
+  border-radius: 8px; /* 可选圆角 */
+}
+</style>
 
 Music
 ======
