@@ -13,10 +13,6 @@ Nature lover
 ======
 I'd love to roam through nature — from soaring peaks to the deepest abysses, from drifting clouds to distant stars, from endless grassland pastures to the whispering seaside. Whenever I have a holiday, I enjoy going hiking or camping.
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-
-  <!DOCTYPE html>
-<html>
-<head>
 <style>
   .container {
     /* 基础容器样式 */
@@ -56,8 +52,6 @@ I'd love to roam through nature — from soaring peaks to the deepest abysses, f
     transform: scale(1.05);
   }
 </style>
-</head>
-<body>
 
 <div class="container" id="gallery"></div>
 
@@ -117,9 +111,6 @@ window.addEventListener('resize', () => {
 // 初始化画廊
 createGallery();
 </script>
-
-</body>
-</html>
 
 </div>
 
