@@ -23,9 +23,9 @@ I'd love to roam through nature — from soaring peaks to the deepest abysses, f
     <div class="horizontal">
       <img src="https://niko-kang.github.io/GOAL/images/t2.jpg" alt="p2">
     </div>
-    <div class="horizontal">
+<!--     <div class="horizontal">
       <img src="horizontal2.jpg" alt="p3">
-    </div>
+    </div> -->
   </div>
   
   <!-- 右侧竖版 -->
