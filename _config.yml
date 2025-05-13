@@ -22,7 +22,7 @@ repository               : "https://github.com/niko-kang/GOAL"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "niko.png"
+  avatar           : "1.png"
   name             : "Lei Kang（Nikola Kang）"
   pronouns         : # example: "she/her"  
   bio              : "An interdisciplinary student in computer science and physics.<br>18810763991<br>nikola@stu.pku.edu.cn"
