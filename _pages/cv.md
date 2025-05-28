@@ -34,7 +34,7 @@ Skills
   *  RL
   *  Full-Stack development（Python，C++..）
   *  Automatic Control Algorithm and Deployment
-* Physical
+* Quantum Information（Physical）
   * Quantum System Designing
   * Quantum System Manufactureing
   * Physical Theoretical Calculating
